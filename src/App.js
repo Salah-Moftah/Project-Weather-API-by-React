@@ -48,8 +48,9 @@ function App() {
   };
 
   useEffect(() => {
+    i18n.changeLanguage('en');
     setdateAndTime(moment().format("MMM Do YY"));
-  }, []);
+  }, [i18n]);
 
   function Languagechange() {
     if (change === "en") {
