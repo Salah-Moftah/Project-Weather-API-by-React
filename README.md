@@ -6,12 +6,6 @@
 <div><h3>Demo: </h3><a href="https://main--wonderful-pithivier-92ad95.netlify.app" target="_blank">https://main--wonderful-pithivier-92ad95.netlify.app</a></div>
 
 
-### Built With
-
-- HTML
-- CSS
-- JavaScript
-
 ## Library & Frameworks
 - React
 - Material UI
