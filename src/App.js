@@ -64,7 +64,7 @@ function App() {
     }
     setdateAndTime(moment().format("MMM Do YY"));
   }
-  const [cityName, setCityName] = useState([
+  const [cityName] = useState([
     {
       id: uuidv4(),
       name: 'Cairo',
