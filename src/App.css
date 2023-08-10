@@ -1,0 +1,22 @@
+/* Custom Fonts */
+@font-face {
+  font-family: IBM;
+  src:url('/public/fonts/IBMPlexSansArabic-Light.ttf');
+  font-weight: 200;
+}
+@font-face {
+  font-family: IBM;
+  src:url('/public/fonts/IBMPlexSansArabic-Bold.ttf');
+  font-weight: bold;
+}
+@font-face {
+  font-family: IBM;
+  src:url('/public/fonts/IBMPlexSansArabic-Medium.ttf');
+  font-weight: 500;
+}
+@font-face {
+  font-family: IBM;
+  src:url('/public/fonts/IBMPlexSansArabic-Regular.ttf');
+  font-weight: normal;
+}
+/* Custom Fonts */
